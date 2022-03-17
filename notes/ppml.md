@@ -1,0 +1,5 @@
+# Privacy Preserving Machine Learning
+
+https://arxiv.org/pdf/1804.11238.pdf
+
+Personal data is being collected at an unprecedented scale by businesses and public organizations, driven by the progress of data science and AI. While training machine learning models on such personal or otherwise confidential data can be beneficial in many applications, this can also lead to undesirable (sometimes catastrophic) disclosure of sensitive information. In particular, machine learning models often contain precise information about individual data points that were used to train them. We must therefore deal with two conflicting objectives: maximizing the utility of the machine learning model while protecting the privacy of individuals whose data is used in the analysis. Unfortunately, recent years have shown that standard data anonymization techniques cannot reliably prevent leakage without largely destroying utility.
